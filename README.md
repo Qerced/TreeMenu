@@ -44,7 +44,7 @@ http://localhost
 
 ## [Доступ к админ-панели](#админ-панель)
 
-```
-admin
-admin_password
+```dotenv
+username=admin
+password=test_admin
 ```
